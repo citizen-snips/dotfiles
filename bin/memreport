@@ -1,0 +1,17 @@
+#!/usr/bin/bash
+
+for i in /proc/[0-9]*; do
+  grep -q 'Private_Dirty' $i/smaps;
+  if [ $? -ne 0 ]; then
+    continue;
+  fi;
+  echo -n "${i}: ";
+  awk '/Private_Dirty/ {print $2,$3}' $i/smaps |
+   sed 's/ tB/*1024 gB/;s/ gB/*1024 mB/;s/ mB/*1024 kB/;s/ kB/*1024/;1!s/^/+/;' |
+   tr -d '\n' |
+   sed 's/$/\n/' |
+   bc |
+   tr -d '\n';
+  echo;
+done |
+ sort -n -k 2

@@ -1,0 +1,14 @@
+#!/usr/bin/bash
+if [[ $# -eq 0 ]] ; then
+    echo 'Usage: ' $0 '<command> <params>';
+    exit 0;
+fi
+cmd=$1;
+result=`which $cmd 2>/dev/null`;
+if [ $? -ne 0 ] ; then
+   echo "error: ['$cmd'] was not found in PATH"; 
+   exit 1;
+fi
+echo "Starting "$result ${*:2};
+($cmd &>/dev/null ${*:2} &);
+exit 0;

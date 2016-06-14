@@ -1,0 +1,12 @@
+sleep 3
+xrandr --output DP-0 --auto --output DVI-I-1 --auto --right-of DP-0
+tint2 &
+conky -q &
+volwheel &
+nitrogen --restore &
+(sleep 2s && xscreensaver -no-splash) &
+~/.config/openbox/scripts/compton.sh advanced &
+remmina -i &
+slack --startup &
+export `gnome-keyring-daemon`
+

@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/roneill6/Downloads/vl-1.3.2_modified/include/cl'
+let g:netrw_dirhist_2='/home/roneill6/Downloads/pkgs/xdg-utils-git/src/xdg-utils/tests/xdg-icon-resource'
+let g:netrw_dirhist_3='/home/roneill6/TD/scratch/GUI'
+let g:netrw_dirhist_4='/home/roneill6/sbox/D6814_Avia_Iterative_Matrix_Submission/src/TMTCommonLibraries/Messaging'
+let g:netrw_dirhist_5='/home/roneill6/sbox/tmt.trunk/src/GUI/RunManagerMonitor'
+let g:netrw_dirhist_6='/home/roneill6/sbox/W4846_Facilities/facilities-mean/.idea'
+let g:netrw_dirhist_7='/home/roneill6/.config/tint2'
+let g:netrw_dirhist_8='/home/roneill6/.config/autostart'

@@ -1,0 +1,6 @@
+#!/bin/sh
+PROFILEDIR=/tmp/tmp-fx-profile.$$.d
+
+mkdir $PROFILEDIR
+firefox -profile $PROFILEDIR -no-remote -new-instance http://localhost:8000
+rm -rf $PROFILEDIR

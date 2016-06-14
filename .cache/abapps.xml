@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" ?><openbox_pipe_menu xmlns="http://openbox.org/"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://openbox.org/" ><menu id="openbox-Development" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="Alleyoop" icon="/usr/share/icons/hicolor/16x16/apps/alleyoop.png"><action name="Execute"><command><![CDATA[alleyoop]]></command>
+</action></item>
+<item label="Brackets" icon="/usr/share/icons/AwOken/clear/32x32/apps/brackets.png"><action name="Execute"><command><![CDATA[/opt/brackets/brackets]]></command>
+</action></item>
+<item label="CMake" icon="/usr/share/icons/hicolor/32x32/apps/CMakeSetup.png"><action name="Execute"><command><![CDATA[cmake-gui]]></command>
+</action></item>
+<item label="Dart editor" icon="/opt/dart-editor/icon.xpm"><action name="Execute"><command><![CDATA[/usr/bin/dart-editor]]></command>
+</action></item>
+<item label="Data Display Debugger" icon="/usr/share/icons/AwOken/clear/24x24/apps/ddd.png"><action name="Execute"><command><![CDATA[ddd]]></command>
+</action></item>
+<item label="DoUML" icon="/usr/share/icons/hicolor/16x16/apps/douml.png"><action name="Execute"><command><![CDATA[/usr/bin/douml]]></command>
+</action></item>
+<item label="Elementary Test" icon="/usr/share/icons/elementary.png"><action name="Execute"><command><![CDATA[elementary_test]]></command>
+</action></item>
+<item label="Evan's Debugger" icon="/usr/share/icons/hicolor/48x48/apps/edb.png"><action name="Execute"><command><![CDATA[edb]]></command>
+</action></item>
+<item label="GHex" icon="/usr/share/icons/hicolor/16x16/apps/ghex.png"><action name="Execute"><command><![CDATA[ghex]]></command>
+</action></item>
+<item label="Geany" icon="/usr/share/icons/AwOken/clear/24x24/apps/geany.png"><action name="Execute"><command><![CDATA[geany]]></command>
+</action></item>
+<item label="IntelliJ IDEA Community Edition" icon="/usr/share/pixmaps/idea.png"><action name="Execute"><command><![CDATA[idea.sh]]></command>
+</action></item>
+<item label="KCachegrind" icon="/usr/share/icons/AwOken/clear/24x24/apps/kcachegrind.png"><action name="Execute"><command><![CDATA[kcachegrind -caption KCachegrind]]></command>
+</action></item>
+<item label="Komodo Edit 9" icon="/opt/komodo-edit/share/icons/komodo48.png"><action name="Execute"><command><![CDATA[/opt/komodo-edit/lib/mozilla/komodo]]></command>
+</action></item>
+<item label="Light Table" icon="/usr/share/pixmaps/lighttable.png"><action name="Execute"><command><![CDATA[lighttable]]></command>
+</action></item>
+<item label="Massif-Visualizer" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png"><action name="Execute"><command><![CDATA[massif-visualizer]]></command>
+</action></item>
+<item label="Meld" icon="/usr/share/icons/AwOken/clear/24x24/apps/meld.png"><action name="Execute"><command><![CDATA[meld]]></command>
+</action></item>
+<item label="MonoDevelop" icon="/usr/share/icons/AwOken/clear/24x24/apps/monodevelop.png"><action name="Execute"><command><![CDATA[monodevelop]]></command>
+</action></item>
+<item label="MySQL Workbench" icon="/usr/share/icons/hicolor/16x16/apps/mysql-workbench.png"><action name="Execute"><command><![CDATA[mysql-workbench]]></command>
+</action></item>
+<item label="NVIDIA PerfHUD ES" icon="/usr/share/pixmaps/nvidia32.png"><action name="Execute"><command><![CDATA[perfhudes]]></command>
+</action></item>
+<item label="Necessitas Qt Creator" icon="/home/roneill6/.local/share/icons/necessitas.png"><action name="Execute"><command><![CDATA[/home/roneill6/necessitas/QtCreator/bin/necessitas]]></command>
+</action></item>
+<item label="Nemiver" icon="/usr/share/icons/hicolor/16x16/apps/nemiver.png"><action name="Execute"><command><![CDATA[nemiver]]></command>
+</action></item>
+<item label="OpenJDK 1.7.0 Monitoring &amp; Management Console" icon="/usr/share/icons/AwOken/clear/24x24/apps/java.png"><action name="Execute"><command><![CDATA[_BINDIR_/jconsole]]></command>
+</action></item>
+<item label="OpenJDK 1.7.0 Policy Tool" icon="/usr/share/icons/AwOken/clear/24x24/apps/java.png"><action name="Execute"><command><![CDATA[_BINDIR_/policytool]]></command>
+</action></item>
+<item label="Oracle SQL Developer" icon="/opt/oracle-sqldeveloper/icon.png"><action name="Execute"><command><![CDATA[/usr/bin/oracle-sqldeveloper]]></command>
+</action></item>
+<item label="Qt Assistant" icon="/usr/share/icons/AwOken/clear/24x24/apps/assistant.png"><action name="Execute"><command><![CDATA[/usr/lib/qt/bin/assistant]]></command>
+</action></item>
+<item label="Qt Creator" icon="/usr/share/icons/hicolor/16x16/apps/QtProject-qtcreator.png"><action name="Execute"><command><![CDATA[qtcreator]]></command>
+</action></item>
+<item label="Qt Designer" icon="/usr/share/icons/hicolor/128x128/apps/QtProject-designer.png"><action name="Execute"><command><![CDATA[/usr/lib/qt/bin/designer]]></command>
+</action></item>
+<item label="Qt Linguist" icon="/usr/share/icons/AwOken/clear/24x24/apps/linguist.png"><action name="Execute"><command><![CDATA[/usr/lib/qt/bin/linguist]]></command>
+</action></item>
+<item label="Qt QDbusViewer " icon="/usr/share/icons/hicolor/32x32/apps/qdbusviewer.png"><action name="Execute"><command><![CDATA[/usr/lib/qt/bin/qdbusviewer]]></command>
+</action></item>
+<item label="Qt4 Assistant " icon="/usr/share/icons/AwOken/clear/24x24/apps/assistant.png"><action name="Execute"><command><![CDATA[assistant-qt4]]></command>
+</action></item>
+<item label="Qt4 Designer" icon="/usr/share/icons/AwOken/clear/24x24/apps/designer.png"><action name="Execute"><command><![CDATA[designer-qt4]]></command>
+</action></item>
+<item label="Qt4 Linguist " icon="/usr/share/icons/AwOken/clear/24x24/apps/linguist.png"><action name="Execute"><command><![CDATA[linguist-qt4]]></command>
+</action></item>
+<item label="Qt4 QDbusViewer " icon="/usr/share/icons/hicolor/32x32/apps/qdbusviewer-qt4.png"><action name="Execute"><command><![CDATA[qdbusviewer-qt4]]></command>
+</action></item>
+<item label="Robomongo" icon="/usr/share/pixmaps/robomongo.png"><action name="Execute"><command><![CDATA[robomongo]]></command>
+</action></item>
+<item label="SDK-Maintenance-Tool" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png"><action name="Execute"><command><![CDATA[/home/roneill6/necessitas/SDKMaintenanceTool]]></command>
+</action></item>
+<item label="SDK-Update-Tool" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png"><action name="Execute"><command><![CDATA[/home/roneill6/necessitas/SDKMaintenanceTool --updater]]></command>
+</action></item>
+<item label="Violet" icon="/usr/share/icons/hicolor/96x96/apps/violet.png"><action name="Execute"><command><![CDATA[violet]]></command>
+</action></item>
+<item label="Visual Studio Code" icon="/opt/VSCode/resources/app/resources/linux/vscode.png"><action name="Execute"><command><![CDATA[/opt/VSCode/Code]]></command>
+</action></item>
+<item label="WebStorm" icon="/opt/webstorm/bin/webstorm.svg"><action name="Execute"><command><![CDATA["/opt/webstorm/bin/webstorm.sh"]]></command>
+</action></item>
+</menu>
+<menu id="openbox-Education" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<menu id="openbox-Mathematics" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="LibreOffice Math" icon="/usr/share/icons/AwOken/clear/24x24/apps/libreoffice-math.png"><action name="Execute"><command><![CDATA[libreoffice --math]]></command>
+</action></item>
+</menu>
+<menu id="openbox-Science" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="LibreOffice Math" icon="/usr/share/icons/AwOken/clear/24x24/apps/libreoffice-math.png"><action name="Execute"><command><![CDATA[libreoffice --math]]></command>
+</action></item>
+</menu>
+</menu>
+<menu id="openbox-Games" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="Bit.Trip Runner" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png"><action name="Execute"><command><![CDATA[/usr/bin/bit.trip.runner]]></command>
+</action></item>
+<item label="FTL Faster Than Light" icon="/home/roneill6/.local/share/icons/hicolor/16x16/apps/steam_icon_212680.png"><action name="Execute"><command><![CDATA[steam steam://rungameid/212680]]></command>
+</action></item>
+<item label="Kerbal Space Program" icon="/usr/share/icons/hicolor/16x16/apps/steam.png"><action name="Execute"><command><![CDATA[steam steam://rungameid/220200]]></command>
+</action></item>
+<item label="Steam" icon="/usr/share/icons/hicolor/16x16/apps/steam.png"><action name="Execute"><command><![CDATA[/usr/bin/steam]]></command>
+</action></item>
+</menu>
+<menu id="openbox-Graphics" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="Document Viewer" icon="/usr/share/icons/AwOken/clear/24x24/apps/evince.png"><action name="Execute"><command><![CDATA[evince]]></command>
+</action></item>
+<item label="GNU Image Manipulation Program" icon="/usr/share/icons/AwOken/clear/24x24/apps/gimp.png"><action name="Execute"><command><![CDATA[gimp-2.8]]></command>
+</action></item>
+<item label="Image Viewer" icon="/usr/share/icons/AwOken/clear/24x24/apps/gpicview.png"><action name="Execute"><command><![CDATA[gpicview]]></command>
+</action></item>
+<item label="Image Viewer" icon="/usr/share/icons/AwOken/clear/24x24/apps/eog.png"><action name="Execute"><command><![CDATA[eog]]></command>
+</action></item>
+<item label="LibreOffice Draw" icon="/usr/share/icons/AwOken/clear/24x24/apps/libreoffice-draw.png"><action name="Execute"><command><![CDATA[libreoffice --draw]]></command>
+</action></item>
+<item label="NVIDIA PerfHUD ES" icon="/usr/share/pixmaps/nvidia32.png"><action name="Execute"><command><![CDATA[perfhudes]]></command>
+</action></item>
+<item label="XSane - Scanning" icon="/usr/share/icons/AwOken/clear/24x24/apps/xsane.png"><action name="Execute"><command><![CDATA[xsane]]></command>
+</action></item>
+</menu>
+<menu id="openbox-Internet" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="Avahi SSH Server Browser" icon="/usr/share/icons/AwOken/clear/24x24/devices/network-wired.png"><action name="Execute"><command><![CDATA[/usr/bin/bssh]]></command>
+</action></item>
+<item label="Avahi VNC Server Browser" icon="/usr/share/icons/AwOken/clear/24x24/devices/network-wired.png"><action name="Execute"><command><![CDATA[/usr/bin/bvnc]]></command>
+</action></item>
+<item label="Chromium" icon="/usr/share/icons/AwOken/clear/24x24/apps/chromium.png"><action name="Execute"><command><![CDATA[chromium]]></command>
+</action></item>
+<item label="Dropbox" icon="/usr/share/icons/AwOken/clear/24x24/apps/dropbox.png"><action name="Execute"><command><![CDATA[dropbox]]></command>
+</action></item>
+<item label="Firefox" icon="/usr/share/icons/AwOken/clear/24x24/apps/firefox.png"><action name="Execute"><command><![CDATA[firefox]]></command>
+</action></item>
+<item label="Midori" icon="/usr/share/icons/AwOken/clear/24x24/apps/midori.png"><action name="Execute"><command><![CDATA[midori]]></command>
+</action></item>
+<item label="Midori Private Browsing" icon="/usr/share/icons/AwOken/clear/24x24/apps/midori.png"><action name="Execute"><command><![CDATA[midori --private]]></command>
+</action></item>
+<item label="Pidgin Internet Messenger" icon="/usr/share/icons/AwOken/clear/22x22/apps/pidgin.png"><action name="Execute"><command><![CDATA[pidgin]]></command>
+</action></item>
+<item label="Remmina" icon="/usr/share/icons/AwOken/clear/24x24/apps/remmina.png"><action name="Execute"><command><![CDATA[remmina]]></command>
+</action></item>
+<item label="Remote Desktop Viewer" icon="/usr/share/icons/AwOken/clear/24x24/apps/preferences-desktop-remote-desktop.png"><action name="Execute"><command><![CDATA[vinagre]]></command>
+</action></item>
+<item label="Slack" icon="/usr/share/pixmaps/slack.png"><action name="Execute"><command><![CDATA[/usr/bin/slack --disable-gpu]]></command>
+</action></item>
+<item label="Steam" icon="/usr/share/icons/hicolor/16x16/apps/steam.png"><action name="Execute"><command><![CDATA[/usr/bin/steam]]></command>
+</action></item>
+<item label="Thunderbird" icon="/usr/share/icons/AwOken/clear/24x24/apps/thunderbird.png"><action name="Execute"><command><![CDATA[thunderbird]]></command>
+</action></item>
+<item label="Transmission" icon="/usr/share/icons/AwOken/clear/24x24/apps/transmission.png"><action name="Execute"><command><![CDATA[transmission-gtk]]></command>
+</action></item>
+<item label="Web" icon="/usr/share/icons/AwOken/clear/24x24/apps/web-browser.png"><action name="Execute"><command><![CDATA[epiphany]]></command>
+</action></item>
+</menu>
+<menu id="openbox-Multimedia" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="Brasero" icon="/usr/share/icons/AwOken/clear/24x24/apps/brasero.png"><action name="Execute"><command><![CDATA[brasero]]></command>
+</action></item>
+<item label="Cheese" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png"><action name="Execute"><command><![CDATA[cheese]]></command>
+</action></item>
+<item label="DeaDBeeF" icon="/usr/share/icons/AwOken/clear/24x24/apps/deadbeef.png"><action name="Execute"><command><![CDATA[deadbeef]]></command>
+</action></item>
+<item label="GNOME MPlayer" icon="/usr/share/icons/AwOken/clear/24x24/apps/gnome-mplayer.png"><action name="Execute"><command><![CDATA[gnome-mplayer]]></command>
+</action></item>
+<item label="Kazam" icon="/usr/share/icons/AwOken/clear/24x24/apps/kazam.png"><action name="Execute"><command><![CDATA[kazam]]></command>
+</action></item>
+<item label="Kid3-qt" icon="/usr/share/icons/AwOken/clear/24x24/apps/kid3-qt.png"><action name="Execute"><command><![CDATA[kid3-qt]]></command>
+</action></item>
+<item label="Qt V4L2 test Utility" icon="/usr/share/icons/AwOken/clear/24x24/apps/qv4l2.png"><action name="Execute"><command><![CDATA[qv4l2]]></command>
+</action></item>
+<item label="SimpleScreenRecorder" icon="/usr/share/icons/hicolor/16x16/apps/simplescreenrecorder.png"><action name="Execute"><command><![CDATA[simplescreenrecorder --logfile]]></command>
+</action></item>
+<item label="Swfdec Flash Player" icon="/usr/share/icons/hicolor/16x16/apps/swfdec-gnome.png"><action name="Execute"><command><![CDATA[swfdec-player]]></command>
+</action></item>
+<item label="VLC media player" icon="/usr/share/icons/AwOken/clear/24x24/apps/vlc.png"><action name="Execute"><command><![CDATA[/usr/bin/vlc --started-from-file]]></command>
+</action></item>
+<item label="VolWheel" icon="/usr/share/icons/hicolor/scalable/apps/volwheel.svg"><action name="Execute"><command><![CDATA[volwheel]]></command>
+</action></item>
+<item label="Xfburn" icon="/usr/share/icons/AwOken/clear/24x24/devices/media-cdrom.png"><action name="Execute"><command><![CDATA[xfburn]]></command>
+</action></item>
+<item label="gMTP" icon="/usr/share/pixmaps/gmtpicon.png"><action name="Execute"><command><![CDATA[gmtp]]></command>
+</action></item>
+<item label="mytag" icon="/usr/share/pixmaps/mytag.png"><action name="Execute"><command><![CDATA[/usr/bin/mytag]]></command>
+</action></item>
+</menu>
+<menu id="openbox-Office" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="Adobe Reader 9" icon="/usr/share/icons/AwOken/clear/24x24/apps/acroread.png"><action name="Execute"><command><![CDATA[acroread]]></command>
+</action></item>
+<item label="Document Viewer" icon="/usr/share/icons/AwOken/clear/24x24/apps/evince.png"><action name="Execute"><command><![CDATA[evince]]></command>
+</action></item>
+<item label="Evolution" icon="/usr/share/icons/AwOken/clear/24x24/apps/evolution.png"><action name="Execute"><command><![CDATA[evolution]]></command>
+</action></item>
+<item label="Foxit Reader" icon="/usr/share/pixmaps/foxitreader.png"><action name="Execute"><command><![CDATA[foxitreader]]></command>
+</action></item>
+<item label="InvulgoTracker" icon="/usr/share/pixmaps/InvulgoTracker.png"><action name="Execute"><command><![CDATA[invulgotracker]]></command>
+</action></item>
+<item label="LibreOffice" icon="/usr/share/icons/AwOken/clear/24x24/apps/libreoffice-startcenter.png"><action name="Execute"><command><![CDATA[libreoffice]]></command>
+</action></item>
+<item label="LibreOffice Base" icon="/usr/share/icons/AwOken/clear/24x24/apps/libreoffice-base.png"><action name="Execute"><command><![CDATA[libreoffice --base]]></command>
+</action></item>
+<item label="LibreOffice Calc" icon="/usr/share/icons/AwOken/clear/24x24/apps/libreoffice-calc.png"><action name="Execute"><command><![CDATA[libreoffice --calc]]></command>
+</action></item>
+<item label="LibreOffice Draw" icon="/usr/share/icons/AwOken/clear/24x24/apps/libreoffice-draw.png"><action name="Execute"><command><![CDATA[libreoffice --draw]]></command>
+</action></item>
+<item label="LibreOffice Impress" icon="/usr/share/icons/AwOken/clear/24x24/apps/libreoffice-impress.png"><action name="Execute"><command><![CDATA[libreoffice --impress]]></command>
+</action></item>
+<item label="LibreOffice Math" icon="/usr/share/icons/AwOken/clear/24x24/apps/libreoffice-math.png"><action name="Execute"><command><![CDATA[libreoffice --math]]></command>
+</action></item>
+<item label="LibreOffice Writer" icon="/usr/share/icons/AwOken/clear/24x24/apps/libreoffice-writer.png"><action name="Execute"><command><![CDATA[libreoffice --writer]]></command>
+</action></item>
+<item label="PDF-Shuffler" icon="/usr/share/pixmaps/pdfshuffler.png"><action name="Execute"><command><![CDATA[pdfshuffler]]></command>
+</action></item>
+<item label="Zathura" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png"><action name="Execute"><command><![CDATA[zathura]]></command>
+</action></item>
+<item label="ePDFViewer" icon="/usr/share/icons/hicolor/24x24/apps/epdfview.png"><action name="Execute"><command><![CDATA[epdfview]]></command>
+</action></item>
+</menu>
+<menu id="openbox-Settingsmenu" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="ARandR" icon="/usr/share/icons/AwOken/clear/24x24/devices/display.png"><action name="Execute"><command><![CDATA[arandr]]></command>
+</action></item>
+<item label="Adobe Flash Player" icon="/usr/share/icons/AwOken/clear/24x24/apps/flash-player-properties.png"><action name="Execute"><command><![CDATA[flash-player-properties]]></command>
+</action></item>
+<item label="Bluetooth" icon="/usr/share/icons/AwOken/clear/22x22/apps/bluetooth.png"><action name="Execute"><command><![CDATA[blueberry]]></command>
+</action></item>
+<item label="Customize Look and Feel" icon="/usr/share/icons/AwOken/clear/24x24/apps/preferences-desktop-theme.png"><action name="Execute"><command><![CDATA[lxappearance]]></command>
+</action></item>
+<item label="Elementary Configuration" icon="/usr/share/icons/elementary.png"><action name="Execute"><command><![CDATA[elementary_config]]></command>
+</action></item>
+<item label="IBus Preferences" icon="/usr/share/icons/AwOken/clear/22x22/apps/ibus-setup.png"><action name="Execute"><command><![CDATA[ibus-setup]]></command>
+</action></item>
+<item label="IcedTea-Web Control Panel" icon="/usr/share/pixmaps/javaws.png"><action name="Execute"><command><![CDATA[/usr/share/icedtea-web/bin/itweb-settings]]></command>
+</action></item>
+<item label="Keyboard and Mouse" icon="/usr/share/icons/AwOken/clear/24x24/devices/input-keyboard.png"><action name="Execute"><command><![CDATA[lxinput]]></command>
+</action></item>
+<item label="Network Connections" icon="/usr/share/icons/AwOken/clear/24x24/categories/preferences-system-network.png"><action name="Execute"><command><![CDATA[nm-connection-editor]]></command>
+</action></item>
+<item label="Openbox Settings" icon="/usr/share/icons/AwOken/clear/24x24/apps/obconf.png"><action name="Execute"><command><![CDATA[obconf-qt]]></command>
+</action></item>
+<item label="Print Settings" icon="/usr/share/icons/AwOken/clear/24x24/devices/printer.png"><action name="Execute"><command><![CDATA[system-config-printer]]></command>
+</action></item>
+<item label="Screensaver" icon="/usr/share/icons/AwOken/clear/24x24/apps/xscreensaver.png"><action name="Execute"><command><![CDATA[xscreensaver-demo]]></command>
+</action></item>
+<item label="Tint2 Settings" icon="/usr/share/icons/AwOken/clear/24x24/apps/tint2conf.png"><action name="Execute"><command><![CDATA[tint2conf]]></command>
+</action></item>
+<item label="systemadm" icon="/usr/share/icons/AwOken/clear/24x24/categories/applications-system.png"><action name="Execute"><command><![CDATA[systemadm]]></command>
+</action></item>
+</menu>
+<menu id="openbox-System" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="Avahi Zeroconf Browser" icon="/usr/share/icons/AwOken/clear/24x24/devices/network-wired.png"><action name="Execute"><command><![CDATA[/usr/bin/avahi-discover]]></command>
+</action></item>
+<item label="Batti" icon="/usr/share/icons/AwOken/clear/24x24/apps/batti.png"><action name="Execute"><command><![CDATA[batti]]></command>
+</action></item>
+<item label="Color Profile Viewer" icon="/usr/share/icons/hicolor/16x16/apps/gnome-color-manager.png"><action name="Execute"><command><![CDATA[gcm-viewer]]></command>
+</action></item>
+<item label="GParted" icon="/usr/share/icons/AwOken/clear/24x24/apps/gparted.png"><action name="Execute"><command><![CDATA[/usr/bin/gparted_polkit]]></command>
+</action></item>
+<item label="Hardware Locality lstopo" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png"><action name="Execute"><command><![CDATA[lstopo]]></command>
+</action></item>
+<item label="Htop" icon="/usr/share/icons/AwOken/clear/24x24/apps/htop.png"><action name="Execute"><command><![CDATA[lxterminal -e htop]]></command>
+</action></item>
+<item label="LXTerminal" icon="/usr/share/icons/AwOken/clear/24x24/apps/lxterminal.png"><action name="Execute"><command><![CDATA[lxterminal]]></command>
+</action></item>
+<item label="Manage Printing" icon="/usr/share/icons/AwOken/clear/24x24/apps/cups.png"><action name="Execute"><command><![CDATA[/usr/bin/xdg-open http://localhost:631/]]></command>
+</action></item>
+<item label="Oracle VM VirtualBox" icon="/usr/share/icons/AwOken/clear/24x24/apps/virtualbox.png"><action name="Execute"><command><![CDATA[VirtualBox]]></command>
+</action></item>
+<item label="Print Settings" icon="/usr/share/icons/AwOken/clear/24x24/devices/printer.png"><action name="Execute"><command><![CDATA[system-config-printer]]></command>
+</action></item>
+<item label="SpaceFM" icon="/usr/share/icons/hicolor/48x48/apps/spacefm.png"><action name="Execute"><command><![CDATA[spacefm]]></command>
+</action></item>
+<item label="System Profiler and Benchmark" icon="/usr/share/hardinfo/pixmaps/logo.png"><action name="Execute"><command><![CDATA[hardinfo]]></command>
+</action></item>
+<item label="Terminal" icon="/usr/share/icons/AwOken/clear/24x24/apps/utilities-terminal.png"><action name="Execute"><command><![CDATA[gnome-terminal]]></command>
+</action></item>
+<item label="Terminator" icon="/usr/share/icons/AwOken/clear/24x24/apps/terminator.png"><action name="Execute"><command><![CDATA[terminator]]></command>
+</action></item>
+<item label="Terminology" icon="/usr/share/icons/terminology.png"><action name="Execute"><command><![CDATA[terminology]]></command>
+</action></item>
+<item label="Tint2" icon="/usr/share/icons/hicolor/scalable/apps/tint2.svg"><action name="Execute"><command><![CDATA[tint2]]></command>
+</action></item>
+<item label="UXTerm" icon="/usr/share/icons/AwOken/clear/48x48/apps/xterm-color_48x48.png"><action name="Execute"><command><![CDATA[uxterm]]></command>
+</action></item>
+<item label="XTerm" icon="/usr/share/icons/AwOken/clear/48x48/apps/xterm-color_48x48.png"><action name="Execute"><command><![CDATA[xterm]]></command>
+</action></item>
+<item label="dconf Editor" icon="/usr/share/icons/AwOken/clear/24x24/apps/dconf-editor.png"><action name="Execute"><command><![CDATA[dconf-editor]]></command>
+</action></item>
+<item label="systemadm" icon="/usr/share/icons/AwOken/clear/24x24/categories/applications-system.png"><action name="Execute"><command><![CDATA[systemadm]]></command>
+</action></item>
+<item label="urxvt" icon="/usr/share/icons/AwOken/clear/24x24/apps/utilities-terminal.png"><action name="Execute"><command><![CDATA[urxvt]]></command>
+</action></item>
+<item label="urxvt (client)" icon="/usr/share/icons/AwOken/clear/24x24/apps/utilities-terminal.png"><action name="Execute"><command><![CDATA[urxvtc]]></command>
+</action></item>
+<item label="urxvt (tabbed)" icon="/usr/share/icons/AwOken/clear/24x24/apps/utilities-terminal.png"><action name="Execute"><command><![CDATA[urxvt-tabbed]]></command>
+</action></item>
+</menu>
+<menu id="openbox-Utilities" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="Archive Manager" icon="/usr/share/icons/AwOken/clear/24x24/apps/file-roller.png"><action name="Execute"><command><![CDATA[file-roller]]></command>
+</action></item>
+<item label="Catfish File Search" icon="/usr/share/icons/AwOken/clear/24x24/apps/catfish.png"><action name="Execute"><command><![CDATA[/usr/bin/catfish]]></command>
+</action></item>
+<item label="Character Map" icon="/usr/share/icons/AwOken/clear/24x24/apps/accessories-character-map.png"><action name="Execute"><command><![CDATA[gucharmap]]></command>
+</action></item>
+<item label="ClipIt" icon="/usr/share/icons/hicolor/scalable/apps/clipit-trayicon.svg"><action name="Execute"><command><![CDATA[clipit]]></command>
+</action></item>
+<item label="Disks" icon="/usr/share/icons/hicolor/16x16/apps/gnome-disks.png"><action name="Execute"><command><![CDATA[gnome-disks]]></command>
+</action></item>
+<item label="Elementary Test" icon="/usr/share/icons/elementary.png"><action name="Execute"><command><![CDATA[elementary_test]]></command>
+</action></item>
+<item label="GVim" icon="/usr/share/icons/AwOken/clear/24x24/apps/gvim.png"><action name="Execute"><command><![CDATA[gvim -f]]></command>
+</action></item>
+<item label="Galculator" icon="/usr/share/icons/AwOken/clear/24x24/apps/galculator.png"><action name="Execute"><command><![CDATA[galculator]]></command>
+</action></item>
+<item label="HP Device Manager" icon="/usr/share/hplip/data/images/128x128/hp_logo.png"><action name="Execute"><command><![CDATA[hp-toolbox]]></command>
+</action></item>
+<item label="Komodo Edit 9" icon="/opt/komodo-edit/share/icons/komodo48.png"><action name="Execute"><command><![CDATA[/opt/komodo-edit/lib/mozilla/komodo]]></command>
+</action></item>
+<item label="Leafpad" icon="/usr/share/icons/AwOken/clear/24x24/apps/leafpad.png"><action name="Execute"><command><![CDATA[leafpad]]></command>
+</action></item>
+<item label="Light Table" icon="/usr/share/pixmaps/lighttable.png"><action name="Execute"><command><![CDATA[lighttable]]></command>
+</action></item>
+<item label="Nemo" icon="/usr/share/icons/AwOken/clear/24x24/places/folder.png"><action name="Execute"><command><![CDATA[nemo]]></command>
+</action></item>
+<item label="Passwords and Keys" icon="/usr/share/icons/AwOken/clear/24x24/apps/seahorse.png"><action name="Execute"><command><![CDATA[/usr/bin/seahorse]]></command>
+</action></item>
+<item label="QtADB" icon="/usr/share/pixmaps/qtadb.png"><action name="Execute"><command><![CDATA[qtadb]]></command>
+</action></item>
+<item label="SpaceFM" icon="/usr/share/icons/hicolor/48x48/apps/spacefm.png"><action name="Execute"><command><![CDATA[spacefm]]></command>
+</action></item>
+<item label="SpaceFM File Search" icon="/usr/share/icons/hicolor/48x48/apps/spacefm-find.png"><action name="Execute"><command><![CDATA[spacefm --find-files]]></command>
+</action></item>
+<item label="Sublime Text" icon="/usr/share/icons/hicolor/16x16/apps/sublime-text.png"><action name="Execute"><command><![CDATA[subl]]></command>
+</action></item>
+<item label="Terminator" icon="/usr/share/icons/AwOken/clear/24x24/apps/terminator.png"><action name="Execute"><command><![CDATA[terminator]]></command>
+</action></item>
+<item label="Text Editor" icon="/usr/share/icons/AwOken/clear/24x24/apps/gedit.png"><action name="Execute"><command><![CDATA[gedit]]></command>
+</action></item>
+<item label="Time Tracker" icon="/usr/share/icons/hicolor/16x16/apps/hamster-time-tracker.png"><action name="Execute"><command><![CDATA[/usr/bin/hamster]]></command>
+</action></item>
+<item label="Time Tracking Overview" icon="/usr/share/icons/hicolor/16x16/apps/hamster-time-tracker.png"><action name="Execute"><command><![CDATA[/usr/bin/hamster overview]]></command>
+</action></item>
+<item label="Workrave" icon="/usr/share/icons/AwOken/clear/24x24/apps/workrave.png"><action name="Execute"><command><![CDATA[workrave]]></command>
+</action></item>
+<item label="Xfburn" icon="/usr/share/icons/AwOken/clear/24x24/devices/media-cdrom.png"><action name="Execute"><command><![CDATA[xfburn]]></command>
+</action></item>
+<item label="compton" icon="/usr/share/icons/hicolor/scalable/apps/compton.svg"><action name="Execute"><command><![CDATA[compton]]></command>
+</action></item>
+<item label="f.lux indicator applet" icon="/usr/share/icons/AwOken/clear/24x24/apps/fluxgui.png"><action name="Execute"><command><![CDATA[fluxgui]]></command>
+</action></item>
+<item label="geisview" icon="/usr/share/pixmaps/geisview32x32.xpm"><action name="Execute"><command><![CDATA[geisview]]></command>
+</action></item>
+<item label="sky" icon="/usr/share/pixmaps/sky.png"><action name="Execute"><command><![CDATA[sh /opt/sky_linux/sky.sh]]></command>
+</action></item>
+</menu>
+<menu id="openbox-Applications" label="(null)" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png">
+<item label="AUR" icon="/usr/share/icons/AwOken/clear/24x24/apps/arch-logo.png"><action name="Execute"><command><![CDATA[xdg-open https://aur.archlinux.org]]></command>
+</action></item>
+<item label="Bugs" icon="/usr/share/icons/AwOken/clear/24x24/apps/arch-logo.png"><action name="Execute"><command><![CDATA[xdg-open https://bugs.archlinux.org]]></command>
+</action></item>
+<item label="Developers" icon="/usr/share/icons/AwOken/clear/24x24/apps/arch-logo.png"><action name="Execute"><command><![CDATA[xdg-open http://www.archlinux.org/developers/]]></command>
+</action></item>
+<item label="Documentation" icon="/usr/share/icons/AwOken/clear/24x24/apps/arch-logo.png"><action name="Execute"><command><![CDATA[xdg-open https://wiki.archlinux.org/index.php/Official_Arch_Linux_Install_Guide]]></command>
+</action></item>
+<item label="Donate" icon="/usr/share/icons/AwOken/clear/24x24/apps/arch-logo.png"><action name="Execute"><command><![CDATA[xdg-open http://www.archlinux.org/donate/]]></command>
+</action></item>
+<item label="Forum" icon="/usr/share/icons/AwOken/clear/24x24/apps/arch-logo.png"><action name="Execute"><command><![CDATA[xdg-open https://bbs.archlinux.org]]></command>
+</action></item>
+<item label="Homepage" icon="/usr/share/icons/AwOken/clear/24x24/apps/arch-logo.png"><action name="Execute"><command><![CDATA[xdg-open http://www.archlinux.org]]></command>
+</action></item>
+<item label="SVN" icon="/usr/share/icons/AwOken/clear/24x24/apps/arch-logo.png"><action name="Execute"><command><![CDATA[xdg-open http://projects.archlinux.org/svntogit/]]></command>
+</action></item>
+<item label="Schwag" icon="/usr/share/icons/AwOken/clear/24x24/apps/arch-logo.png"><action name="Execute"><command><![CDATA[xdg-open http://www.zazzle.com/archlinux/]]></command>
+</action></item>
+<item label="VMware User Agent" icon="/usr/share/icons/AwOken/clear/24x24/mimetypes/empty.png"><action name="Execute"><command><![CDATA[/usr/bin/vmware-user-suid-wrapper]]></command>
+</action></item>
+<item label="Wiki" icon="/usr/share/icons/AwOken/clear/24x24/apps/arch-logo.png"><action name="Execute"><command><![CDATA[xdg-open https://wiki.archlinux.org]]></command>
+</action></item>
+</menu>
+</openbox_pipe_menu>

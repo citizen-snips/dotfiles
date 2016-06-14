@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+killall touchegg &>/dev/null
+touchegg &>/dev/null &
+synclient MinSpeed=2.0
+synclient MaxSpeed=10.0
+synclient AccelFactor=0.09
+
