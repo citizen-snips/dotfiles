@@ -1,0 +1,10 @@
+#!/bin/bash
+
+sudo rm /var/log/omniORB/error.log /var/log/omniORB/omninames-aviatmt.eosl.gtri.org.log /var/log/omniORB/omninames-aviatmt.eosl.gtri.org.bak
+sudo /etc/init.d/omniNames restart
+sleep 5
+sudo /etc/init.d/sgemaster.p6444 restart
+sleep 5
+sudo /etc/init.d/sgeexecd.p6444 restart
+sleep 10
+sudo /etc/init.d/tmt-runmanager restart

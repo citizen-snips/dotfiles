@@ -1,0 +1,7 @@
+/home/roneill6/NVPACK/eclipse/eclipse -nosplash -data /home/roneill6/NVPACK/nvsample_workspace -application org.eclipse.cdt.managedbuilder.core.headlessbuild -importAll /home/roneill6/NVPACK/TDK_Samples/tegra_android_native_samples_v10p12
+
+/home/roneill6/NVPACK/eclipse/eclipse -nosplash -data /home/roneill6/NVPACK/nvsample_workspace -application org.eclipse.cdt.managedbuilder.core.headlessbuild -importAll /home/roneill6/NVPACK/Samples3D
+
+/home/roneill6/NVPACK/eclipse/eclipse -nosplash -data /home/roneill6/NVPACK/nvsample_workspace -application org.eclipse.cdt.managedbuilder.core.headlessbuild -importAll /home/roneill6/NVPACK/OpenCV-2.4.5-Tegra-sdk-r2
+
+
